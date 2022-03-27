@@ -1,0 +1,103 @@
+.banner-container{
+background-color: #d3accc;
+}
+
+.banner-column{
+    background-color: #834d39;
+    
+}
+
+.navbar-container{
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+
+}
+
+.about-container{
+    background-color: rgb(27, 58, 87);
+}
+
+.contact-container{
+    background-color: rgb(1, 13, 17);
+    text-align: center;
+
+}
+
+.education-container{
+    background-color: #d3accc;
+
+}
+
+.tasneem{
+    color: rgb(121, 5, 5);
+}
+
+.circle-ede{
+    background-color: #8b0673;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.card-body{
+    color: #7105c9;
+}
+
+.project-container{
+    background-color: #6196a7;
+}
+
+.riana{
+    color: black;
+
+}
+
+.portfolio-container{
+    background-color: #94628b;
+}
+
+.experience-container{
+    background-color: #b2b7be;
+}
+
+.event-container{
+    background-color: rgb(106, 114, 79);
+}
+
+.gallery-container{
+    background-color: #e656eb;
+}
+
+.form-container{
+    background-color: #a98dc0;
+}
+
+.inner-form{
+    background-color: #79757c;
+}
+
+.footer{
+    background-color: #363536;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #6196a7;
+}
+
+.circle:hover{
+    background-color: rgb(26, 26, 41);
+}
+
+
+
+
+
